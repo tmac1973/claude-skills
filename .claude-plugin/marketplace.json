@@ -1,0 +1,11 @@
+{
+  "name": "tmac-skills",
+  "owner": { "name": "tmac1973" },
+  "plugins": [
+    {
+      "name": "tmac-skills",
+      "source": "./",
+      "description": "A collection of Claude Code skills: guided planning, code audit, and more."
+    }
+  ]
+}
