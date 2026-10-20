@@ -1,6 +1,11 @@
 {
   "name": "tmac-skills",
-  "owner": { "name": "tmac1973" },
+  "owner": {
+    "name": "tmac1973"
+  },
+  "metadata": {
+    "description": "Claude Code skills by tmac1973"
+  },
   "plugins": [
     {
       "name": "tmac-skills",
